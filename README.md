@@ -1,1 +1,1 @@
-# UP_MySQL_RSVP_Case_Study
+# MySQL RSVP Case Study
